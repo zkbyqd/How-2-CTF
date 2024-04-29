@@ -1,8 +1,8 @@
 # CTF Learning Repository
-Welcome to the CTFs and Wargames Learning Repository! This repository is designed to provide resources and guidance for individuals looking to delve into Capture The Flag (CTF) competitions and cybersecurity wargames.
+Welcome to the CTF Learning Repository! This repository is designed to provide resources and guidance for individuals looking to delve into Capture The Flag (CTF) competitions and cybersecurity wargames.
 
 ## Getting Started
-If you're new to the world of CTFs and wargames, here are some steps to get you started:
+If you're new to the world of CTFs, here are some steps to get you started:
 
 1. Understanding the Basics: Familiarize yourself with basic concepts of cybersecurity, such as networking, cryptography, web security, binary exploitation, and reverse engineering.
 2. Choose Your Path: Decide on the type of challenges you're interested in. Whether it's web exploitation, binary exploitation, cryptography, forensics, or a combination of these, there's something for everyone.
