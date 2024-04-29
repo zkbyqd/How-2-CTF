@@ -7,7 +7,7 @@ If you're new to the world of CTFs, here are some steps to get you started:
 1. Understanding the Basics: Familiarize yourself with basic concepts of cybersecurity, such as networking, cryptography, web security, binary exploitation, and reverse engineering.
 2. Choose Your Path: Decide on the type of challenges you're interested in. Whether it's web exploitation, binary exploitation, cryptography, forensics, or a combination of these, there's something for everyone.
 3. Online Platforms: Explore online platforms dedicated to hosting CTFs and wargames.
-4. Join Communities: Engage with cybersecurity communities and forums. Platforms like Reddit (r/netsec, r/AskNetsec, r/securityCTF) and Discord servers dedicated to CTFs (such as CTF Time) can be invaluable for learning and networking.
+4. Join Communities: Engage with cybersecurity communities and forums. Platforms like Reddit (r/netsec, r/AskNetsec, r/securityCTF) and Discord servers dedicated to CTFs (such as Hack Smarter) can be invaluable for learning and networking.
 5. Read Write-ups: After attempting challenges, read write-ups to understand different approaches and techniques used by other participants. Write-ups provide insights into the thought processes and methodologies used to solve challenges.
 
 ## Repository Contents
