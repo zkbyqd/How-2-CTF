@@ -1,4 +1,4 @@
-# CTF and Wargame Learning Repository
+# CTF Learning Repository
 Welcome to the CTFs and Wargames Learning Repository! This repository is designed to provide resources and guidance for individuals looking to delve into Capture The Flag (CTF) competitions and cybersecurity wargames.
 
 ## Getting Started
