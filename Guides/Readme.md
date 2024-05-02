@@ -10,6 +10,9 @@ CTF 101.
 https://beginners.re/
 Reverse Engineering for Beginners.
 
+https://github.com/0xZ0F/Z0FCourse_ReverseEngineering
+Reverse Engineering Course Repo.
+
 https://www.chromium.org/chromium-os/developer-library/reference/linux-constants/syscalls/
 Syscalls table with register info.
 
