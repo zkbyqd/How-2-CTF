@@ -18,3 +18,6 @@ Hacking techniques/researches.
 
 https://docs.pwntools.com/en/latest/
 CTF framework and exploit dev lib.
+
+https://www.ired.team/
+Red Team Notes.
