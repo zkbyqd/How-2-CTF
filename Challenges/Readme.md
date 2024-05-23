@@ -158,6 +158,11 @@ Interactive website for learning how to code
 Xmas programming puzzles
 
 
+## Miscellaneous
+[Gandalf](https://gandalf.lakera.ai/)
+Prompt Injection
+
+
 ## Bounty Hunting
 [Hackerone](https://www.hackerone.com/product/bug-bounty-platform)
 
