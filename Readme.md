@@ -1,4 +1,5 @@
-# CTF Learning Repository
+# HOW 2 CTF
+## CTF Learning Repository
 Welcome to the CTF Learning Repository! This repository is designed to provide resources and guidance for individuals looking to delve into [CTF](https://ctftime.org/ctf-wtf/) competitions and cybersecurity wargames.
 
 ## Getting Started
