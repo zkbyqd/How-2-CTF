@@ -54,9 +54,6 @@ Jeopardy-Style Challenges.
 [SSH@UzL](https://ctf.sshuzl.de/challenges)
 Beginner Jeopardy-Style CTF of ssh@uzl. 
 
-[CTFlearn](https://ctflearn.com/)
-Beginner Jeopardy-Style Challenges.
-
 [RingZer0CTF](https://ringzer0ctf.com/)
 Offers tons of Jeopardy-Style Challenges.
 
