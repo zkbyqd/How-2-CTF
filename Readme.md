@@ -1,6 +1,6 @@
 # HOW 2 CTF
 ## CTF Learning Repository
-Welcome to the CTF Learning Repository! This repository is designed to provide resources and guidance for individuals looking to delve into [CTF](https://ctftime.org/ctf-wtf/) competitions and cybersecurity wargames.
+Welcome! This repository is designed to provide resources and guidance for individuals looking to delve into [CTF](https://ctftime.org/ctf-wtf/) competitions and cybersecurity wargames.
 
 ## Getting Started
 If you're new to the world of CTFs, here are some steps to get you started:
