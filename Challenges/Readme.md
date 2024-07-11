@@ -31,7 +31,7 @@ Helps beginner CTF players learn key PowerShell concepts and Windows security sk
 Great variety of challenges and a respectable learning curve, which encourages learning. A must do for hackers of all levels.
 
 [picoCTF](https://picoctf.com/)
-One of the most popular CTFs, where anticipated CTF beginners have a great chance to practice their skills.
+One of the most popular CTFs, where anticipated CTF beginners have a great chance to practice their skills. But take care since pico can get hard really fast!
 
 [0x0539](https://0x0539.net/)
 Has different levels that increase in difficulty and topics. Good for beginner and experienced skill sets.
@@ -52,7 +52,13 @@ Wargaming Network (Jeopardy-CTFs).
 Jeopardy-Style Challenges.
 
 [SSH@UzL](https://ctf.sshuzl.de/challenges)
-Beginner type Jeopardy CTF of ssh@uzl. 
+Beginner Jeopardy-Style CTF of ssh@uzl. 
+
+[CTFlearn](https://ctflearn.com/)
+Beginner Jeopardy-Style Challenges.
+
+[RingZer0CTF](https://ringzer0ctf.com/)
+Offers tons of Jeopardy-Style Challenges.
 
 
 ## Web Exploitation (web)
