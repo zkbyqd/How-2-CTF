@@ -55,7 +55,7 @@ Jeopardy-Style Challenges.
 Beginner type Jeopardy CTF of ssh@uzl. 
 
 
-## Web Exploitation
+## Web Exploitation (web)
 [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 An intentionally vulnerable web application to teach web security in a realistic setting. It covers topics such as SQL injection, XSS, and CSRF.
 
@@ -72,7 +72,7 @@ A site to build, host and share vulnerable weg apps for educational and research
 A permanent educational CTF from the HackerOne Team. 
 
 
-## Reverse Engineering / RE
+## Reverse Engineering (re)
 [Crackmes](https://crackmes.one/)
 A collection of CrackMe-Challenges to improve your reverse engineering skills.
 
@@ -92,7 +92,7 @@ CTF Archive - insane Reversing Challenges.
 Archive of online CTFs. 
 
 
-## Binary Exploitation / PWN
+## Binary Exploitation (pwn)
 [Pwn.college](https://pwn.college/)
 A nice practice site that seems to be very good organized for beginners to intermediates. It is structured like a college course which makes it easy to follow. 
 
@@ -115,7 +115,7 @@ Good challenges for Linux Privilege Escalation, Memory Corruption, etc.
 Hacking challenges with an increasing difficulty in the categories binary exploitation and privilege escalation. 
 
 
-## Cryptography
+## Cryptography (crypto)
 [CryptoHack](https://cryptohack.org/)
 A crypto only practice CTF site.
 
@@ -126,7 +126,7 @@ Crypto Challenges.
 Crypto Challenges, high learning effect for Crypto. 
 
 
-## Forensics
+## Forensics (forens)
 [Root Me - Forensics](https://www.root-me.org/en/Challenges/Forensic/)
 Trains you in digital investigation skills by analyzing memory dumps, log files, network captures etc.
 
@@ -137,17 +137,17 @@ Provides you with network packet captures you need to analyse to solve these cha
 Features forensics challenges that test your skills in analyzing digital artifacts and uncovering hidden information.
 
 
-## Steganography
+## Steganography (stegano)
 [Root Me - Steganography](https://www.root-me.org/en/Challenges/Steganography/)
 Let's test your skills in hiding and extracting information from images, audio, and text.
 
 
-## Blockchain
+## Blockchain (bc)
 [The Ethernaut](https://ethernaut.openzeppelin.com/)
 OverTheWire inspired wargame for learning smart contract hacking (blockchain security). 
 
 
-## Coding
+## Coding (code)
 [Codewars](https://www.codewars.com/)
 Complete challenges and practice programming
 
@@ -158,7 +158,7 @@ Interactive website for learning how to code
 Xmas programming puzzles
 
 
-## Miscellaneous
+## Miscellaneous (misc)
 [Gandalf](https://gandalf.lakera.ai/)
 Prompt Injection
 
